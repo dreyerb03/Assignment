@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #add8e6;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: black;
+}
+header{
+	background-color: #FFFFFF;
+	margin: 0;
+	text-align: center
+	
+}
+article {
+	background-color: #FFFFFF;
+	margin: 0;
+}
+img {
+	width: 15%;
+	float: right;
+	padding-bottom: 10%;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+p1 {
+	background-color: #FFFFFF;
+	margin: 0;
+	float: right;
+}
+
+p2 {
+	background-color: #FFFFFF;
+	margin: 0;
+	float: right;
+}
+
+
+p3 {
+	background-color: #FFFFFF;
+	margin: 0;
+	float: right;
+}
+
+li {
+	background-color: #FFFFFF;
+	margin: 0;
+	float: none;
+}
+
